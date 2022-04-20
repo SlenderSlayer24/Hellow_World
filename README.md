@@ -1,23 +1,12 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project is about just making a nice little website where somone can go in and just enjoy themeselves.
+See a picture of a cat with some soothing colors. Don't like the colors that are there? Just refresh the
+page and get a new color combo.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5Nzzbk-Lx-4)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+I used Virtual Studio code for the actual coding of the site. Along with git hub to keep all the files
+together in a repository. I also used css, html, and java script all together to create the website.
