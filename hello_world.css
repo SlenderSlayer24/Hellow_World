@@ -1,0 +1,16 @@
+img{
+    width:150px;
+}
+header,body {
+    text-align: center;
+}
+html{
+    background-color: red;
+    color: green;
+}
+header{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
